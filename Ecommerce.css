@@ -1,0 +1,173 @@
+.color1{
+    display: flex;
+    background:linear-gradient(180deg,#e9f3f7,rgb(175, 216, 249),#e9f3f7);/* #f1ce99 */
+   
+}
+.color2{
+     background:linear-gradient(180deg,#f9dcb0,rgb(247, 179, 107),#f5d1a8);/* #f1ce99 */
+}
+.color3{
+    background:linear-gradient(180deg,#b8dce7,rgb(130, 189, 216),#b6dae6);/* #f1ce99 */
+}
+.Main{
+   
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.icon{
+    position:relative;
+    
+}
+
+.a{
+    align-items:center;
+    word-spacing: 50px;
+}
+ .img{
+     margin-left: 500px;
+} 
+.img2{
+    margin-right: 1000px;
+}
+.img3{
+    margin-left: 900px;
+    ruby-merge: auto;
+} 
+.img4{
+    margin-right:1000px;
+}
+.img5{
+    margin-left: -700px;
+}
+.img6{
+    margin-right: -650px;
+}
+.img7{
+    margin-left: -650px;
+}
+
+.wireless{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:70px;
+}
+.start{
+    font-family:'Times New Roman', Times, serif;
+}
+.buds{
+    font-size: 80px;
+    margin-right: 3px;
+     
+}
+.text{
+    font-size: 50px;
+   word-spacing: 5px;
+   position: absolute;
+   top: 200px;
+   left: 16px;
+    
+}
+.text2{
+    font-size: 50px;
+   word-spacing: 5px;
+   position: absolute;
+   top:1200px;
+   right:100px;
+}
+.text3{
+    font-size: 50px;
+   word-spacing: 5px;
+   position: absolute;
+   top: 2200px;
+   left:50px;
+    
+}
+
+.imgone{ 
+   
+    background:linear-gradient(180deg,#e9f3f7,rgb(175, 216, 249),#e9f3f7);/* #f1ce99 */
+
+   
+} 
+.imgtwo{ 
+   
+    background:linear-gradient(180deg,#f9dcb0,rgb(247, 179, 107),#f5d1a8);/* #f1ce99 */
+
+   
+} 
+.imgthree{ 
+   
+    background:linear-gradient(180deg,#d7e6eb,rgb(85, 180, 224),#b6dae6);/* #f1ce99 */
+
+   
+} 
+ #im1{
+    margin-top: 10px;
+    margin-left:1px ;
+    
+    /* border-radius: 2px solid black; */
+    text-align: left;
+}
+#im2{
+    margin-top: -437px;
+    margin-left:310px ;
+   
+    text-align: left;
+}#im3{
+    margin-top: -437px;
+    margin-left:620px ;
+    
+    text-align: left;
+}#im4{
+    margin-top: -437px;
+    margin-left:930px ;
+    text-align: left;
+    padding-right: 15px;
+} 
+#im5{
+    margin-top: -437px;
+    margin-left:1229px ;
+    text-align: left;
+    padding-right: 15px;
+}
+#im51{
+    margin-top: 10px;
+    margin-left:1px ;
+    
+    /* border-radius: 2px solid black; */
+    text-align: left;
+    
+}
+#im52{
+    margin-top: -400px;
+    margin-left:505px ;
+   
+    text-align: left;
+    
+}#im53{
+    margin-top: -400px;
+    margin-left:1015px ;
+    
+    text-align: left;
+}
+.im59{
+    margin-top: 404px;
+    margin-right: 1000;
+
+}
+.best{
+    text-align: left;
+}
+.card{
+    text-align:left;
+}
+#nav{
+    position:fixed;
+    margin-top:50px;
+    z-index: 1;
+}
+.gift{
+    margin-top: 40px;
+}
+.im5{
+    margin-left: 50px;
+}
